@@ -1,0 +1,12 @@
+Movie app
+
+1. use to OpenMovieDatabase API to get Movie information and movie poster images
+2.  save moves "to watch" list
+    > save to local storage
+3. mark movies as watched
+4. give watched moves a thumbs up or down
+5.  look nice
+    > use Bootstrap
+      < search box should <input> text and a <button>
+      < images should be displayed using bootstrap cards to show search results
+      < search results should show up in columns/ be sure to wrap 
